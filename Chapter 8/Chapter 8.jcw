@@ -1,0 +1,19 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>Chapter 8</label>
+	</settings>
+	<users>
+		<user>
+			<path>Chapter 8.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Problems\Problems.jcp</path>
+		</project>
+		<project>
+			<path>Excericises\Excericises.jcp</path>
+		</project>
+	</projects>
+</workspace>

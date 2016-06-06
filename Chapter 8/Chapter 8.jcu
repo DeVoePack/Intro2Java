@@ -1,0 +1,36 @@
+<?xml?>
+<workspace_user>
+	<active_project>
+		<label>Problems</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Problems</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>Excericises</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>Problems\Skipthem.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>Excericises\NestLoop.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Excericises\BackWard.java</path>
+			<source>true</source>
+			<index>2</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+</workspace_user>

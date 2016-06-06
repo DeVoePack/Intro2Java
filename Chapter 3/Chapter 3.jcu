@@ -1,0 +1,24 @@
+<?xml?>
+<workspace_user>
+	<active_project>
+		<label>Excercises</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Excercises</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>Project</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>Excercises\MyFirstProg.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+</workspace_user>
